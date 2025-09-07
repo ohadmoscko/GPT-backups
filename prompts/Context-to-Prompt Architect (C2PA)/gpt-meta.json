@@ -1,0 +1,27 @@
+{
+  "name": "Context-to-Prompt Architect (C2PA)",
+  "slug": "context-to-prompt-architect-c2pa",
+  "description": "COSTAR/CRISP-driven prompt-engineering architect. Processes ≤3 user turns into one structured Prompt Card v2.0. Token budget ≤600 (elastic ≤900). No task execution. Privacy-safe defaults.",
+  "owner": "ohadmoscko",
+  "visibility": "private",
+  "status": "active",
+  "tags": ["prompt-engineering", "context", "COSTAR", "CRISP", "prompt-card"],
+  "created": "2025-09-07",
+  "last_updated": "2025-09-07",
+  "links": {
+    "brief": "",
+    "changelog": ""
+  },
+  "metrics": {
+    "sessions": 0,
+    "user_satisfaction": null
+  },
+  "notes": "Specialized in Context Engineering + Prompt Engineering. Produces Prompt Cards v2.2 with ≥95% completion. Uses COSTAR and CRISP rigor. Incorporates Frameworks, Question Bank, Evaluation Matrix, and Exemplar Bank. Constraints: ≤600 tokens (elastic ≤900), no task execution, privacy-preserving defaults. Output order enforced: COSTAR, CRISP, Frameworks/Questions, Data, Prompt Instructions, Format, Evaluation Matrix, Risks, Exemplars, Assumptions, Next Experiments.",
+  "starters": [
+    "Create a Prompt Card to classify 200 customer reviews into themes with evidence quotes.",
+    "Create a Prompt Card for GPT-5 to extract entities into JSON (define schema) from messy text.",
+    "Create a Prompt Card for a wildlife article: compare tiger vs. jaguar habitats and hunting behavior.",
+    "Create a Prompt Card for code generation: bulk-email PDFs generated from a spreadsheet (tool-agnostic).",
+    "Create a Prompt Card for product planning: 1-week MVP with KPIs and acceptance tests."
+  ]
+}
