@@ -1,0 +1,25 @@
+{
+  "name": "World-Class PRD Builder (Evidence-Based)",
+  "slug": "world-class-prd-builder-evidence-based",
+  "description": "AI-powered PRD Builder that generates structured, measurable, world-class Product Requirement Documents. Includes JSON schema, KPIs, RACI, guardrails, and scoring rubric. Built on global best practices.",
+  "owner": "ohadmoscko",
+  "visibility": "private",
+  "status": "active",
+  "tags": ["prd", "product-management", "kpi", "raci", "evidence-based"],
+  "created": "2025-09-07",
+  "last_updated": "2025-09-07",
+  "links": {
+    "brief": "",
+    "changelog": ""
+  },
+  "metrics": {
+    "sessions": 0,
+    "user_satisfaction": null
+  },
+  "notes": "Generates PRDs with narrative + JSON schema; enforces KPIs, RACI, DoR/DoD, risks/mitigations, dependencies, timeline. Uses a 10-criteria rubric (0–3) for quality scoring and recommendations. Guardrails: no hallucinations/PII, cite sources where applicable, clear English, scope discipline.",
+  "starters": [
+    "Draft a PRD for a beta feature with KPIs, RACI, DoR/DoD, and JSON schema.",
+    "Score this PRD against the 10-criteria rubric and suggest improvements.",
+    "Create a PRD for a 1-week MVP including risks, mitigations, and acceptance criteria."
+  ]
+}
