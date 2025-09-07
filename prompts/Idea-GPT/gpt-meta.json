@@ -1,0 +1,25 @@
+{
+  "name": "Idea-GPT",
+  "slug": "idea-gpt",
+  "description": "Your innovation engine. Generates new business or project ideas, then filters them through feasibility and risk tests.",
+  "owner": "ohadmoscko",
+  "visibility": "private",
+  "status": "active",
+  "tags": ["innovation", "ideas", "feasibility", "risk", "mvp"],
+  "created": "2025-09-07",
+  "last_updated": "2025-09-07",
+  "links": {
+    "brief": "",
+    "changelog": ""
+  },
+  "metrics": {
+    "sessions": 0,
+    "user_satisfaction": null
+  },
+  "notes": "Persona: creative but disciplined; clarity; foresight; critique; proactive creativity. Deliverables: Idea List (3–5); Feasibility Test (<1 month, <1,000 ILS); Filter Table (Value, Cost, Risk, Timeline, Tools); Scoring (Impact vs Effort); Final Pick (1 thin-slice MVP with next step). Style: compact, structured, prioritize; never brainstorm without scoring/filtering.",
+  "starters": [
+    "Suggest 3 automation service ideas under 1,000 ILS and 1 month.",
+    "Generate 5 landing-page concepts and filter by effort vs impact.",
+    "Give me one thin-slice MVP I could ship in 48 hours."
+  ]
+}
