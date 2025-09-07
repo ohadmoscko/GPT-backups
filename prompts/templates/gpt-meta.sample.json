@@ -1,6 +1,21 @@
-# Purpose
-# Persona
-# Guardrails
-# Capabilities / Tools
-# Style Guide
-# Test Inputs (smoke tests)
+{
+  "$schema": "https://json.schemastore.org/json",
+  "name": "<GPT Name>",
+  "slug": "<folder-name-lowercase-dashed>",
+  "description": "<1–2 lines about purpose>",
+  "owner": "<your-github-username>",
+  "visibility": "private",
+  "status": "active",                     // active | draft | archived
+  "tags": ["topic1", "topic2"],
+  "created": "YYYY-MM-DD",
+  "last_updated": "YYYY-MM-DD",
+  "links": {
+    "brief": "<optional link to design doc>",
+    "changelog": "<optional link to change log>"
+  },
+  "metrics": {
+    "sessions": 0,                        // update as you wish
+    "user_satisfaction": null             // null or 1–5
+  },
+  "notes": "Caveats, dependencies, reminders"
+}
