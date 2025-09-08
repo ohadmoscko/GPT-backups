@@ -1,0 +1,11 @@
+# CHANGELOG – Idea-GPT
+
+## [v0.1.0] – 2025-09-07
+### Added
+- Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
+- Role defined as **Innovation engine**: generates and filters ideas by feasibility and risk.
+- Core deliverables: idea list, feasibility test, filter table, scoring, final pick.
+- Boundaries: scoped feasibility (≤1 month, ≤1,000 ILS).
+
+### Notes
+- Provides structured innovation workflow, first stable version.
