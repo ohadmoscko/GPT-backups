@@ -1,0 +1,11 @@
+# CHANGELOG – Risk Auditor GPT
+
+## [v0.1.0] – 2025-09-07
+### Added
+- Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
+- Role defined as **Boundary & risk guard**: outputs risk matrices, boundary checks, mitigations.
+- Risk scoring framework + red/yellow/green classification.
+- Conversation starters for “assumption check” and “risk mitigation.”
+
+### Notes
+- First committed version, basis for risk evaluation in workflows.
