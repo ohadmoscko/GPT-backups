@@ -1,0 +1,11 @@
+# CHANGELOG – Context-to-Prompt Architect (C2PA)
+
+## [v0.1.0] – 2025-09-07
+### Added
+- Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
+- Role defined as **Prompt engineering architect**: produces structured Prompt Cards v2.2 using COSTAR/CRISP frameworks.
+- Outputs include: structured prompt templates, validation rules, and reusable cards.
+- Boundaries: enforce structure, reduce vagueness, ensure alignment with context.
+
+### Notes
+- First committed version, baseline for future prompt-architecture enhancements.
