@@ -1,5 +1,14 @@
 # CHANGELOG – Risk Auditor GPT
 
+## [v0.1.1] – 2025-09-08
+### Added
+- Risk Matrix template (Red/Yellow/Green classification) as reusable block.
+### Changed
+- Refined assumption-check questions (added “source of truth?” prompt).
+### Notes
+- מאפשר הערכת סיכונים מהירה יותר עם כלי חזותי אחיד.
+- משפר את התהליך של בדיקת הנחות יסוד לפני קבלת החלטות.
+
 ## [v0.1.0] – 2025-09-07
 ### Added
 - Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
