@@ -1,5 +1,15 @@
 # CHANGELOG – World-Class PRD Builder (Evidence-Based)
 
+## [v0.1.1] – 2025-09-08
+### Added
+- PRD section template for **KPIs & Success Metrics** (Markdown table format).
+- Example JSON schema for product features with priority + dependencies.
+### Changed
+- Updated RACI matrix structure (simplified roles: R/A/C/I only).
+### Notes
+- מחזק את היכולת להפיק PRD שימושי תוך ≤1 שעה.
+- נותן פורמט אחיד שקל להעתיק ל־Notion או Google Docs.
+
 ## [v0.1.0] – 2025-09-07
 ### Added
 - Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
