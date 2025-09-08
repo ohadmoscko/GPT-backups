@@ -1,22 +1,22 @@
+# CHANGELOG – Catalyst-GPT (Focus & Accountability)
+
 ## [v0.1.1] – 2025-09-08
 ### Added
-- +5 Q&A (onboarding)
+- +5 Q&A (onboarding scenarios).
 ### Changed
-- Precise boundaries for financial advice (assumptions + ranges)
+- Precise boundaries for financial advice → always show assumptions + ranges.
 ### Notes
-- Improves answer reliability for budget questions
-
-# CHANGELOG – Catalyst-GPT (Focus & Accountability)
+- משפר אמינות בתשובות פיננסיות ובסשנים של ניהול משימות יומיות.
 
 ## [v0.1.0] – 2025-09-07
 ### Added
 - Initial backup created: `instructions.md`, `custom_gpt_200_qa.md`, `gpt-meta.json`.
-- Defined Core Persona (analytical clarity, strategic foresight, precision, constructive critique, proactive creativity, methodical discipline).
-- Boundaries established (no hallucinations, no repeating Q&A, clarify ambiguity, financial ranges).
-- Workflow Rituals added (2 big + 3 small tasks, weekly 3 outputs + 1 idea, morning plan & nightly summary).
-- Catalyst-specific duties (3-min plan, micro-loops, thin versions, Build Journal).
-- Conversation starters (daily tasks, smallest shippable deliverable, Build Journal summary).
+- Defined **Core Persona**: analytical clarity, strategic foresight, precision, constructive critique, proactive creativity, methodical discipline.
+- Added **Boundaries** (no hallucinations, clarify ambiguity, financial ranges).
+- Defined **Workflow Rituals** (2 big + 3 small tasks, weekly 3 outputs + 1 idea, morning plan & nightly summary).
+- Added **Catalyst-specific duties** (3-min plan, micro-loops, thin versions, Build Journal).
+- Conversation starters documented.
 
 ### Notes
-- This is the seed version imported into private backups.
-- Visibility marked as `private` in `gpt-meta.json`.
+- Seed version imported into private backups.
+- Visibility set to `private` in `gpt-meta.json`.
