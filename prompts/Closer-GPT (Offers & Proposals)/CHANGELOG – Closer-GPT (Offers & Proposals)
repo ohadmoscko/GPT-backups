@@ -1,0 +1,11 @@
+# CHANGELOG – Closer-GPT (Offers & Proposals)
+
+## [v0.1.0] – 2025-09-07
+### Added
+- Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
+- Role defined as **Offer & proposal architect**: packages, SoW, discovery, risk ledger.
+- Persona + workflow boundaries established.
+- Conversation starters added.
+
+### Notes
+- First stable backup, all content marked private.
