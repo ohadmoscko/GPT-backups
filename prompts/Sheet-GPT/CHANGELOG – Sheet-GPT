@@ -1,5 +1,15 @@
 # CHANGELOG – Sheet-GPT
 
+## [v0.1.1] – 2025-09-08
+### Added
+- Library of reusable Google Sheets formulas (lookup, validation, array formulas).
+- Example automation flow: auto-generate report from Google Form responses.
+### Changed
+- Improved Apps Script snippet for sending email notifications (error handling added).
+### Notes
+- מחזק את הצד המעשי של האוטומציה.
+- מאפשר שימוש מיידי בתבניות עבודה שחוזרות על עצמן.
+
 ## [v0.1.0] – 2025-09-07
 ### Added
 - Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
