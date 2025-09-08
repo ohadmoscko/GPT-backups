@@ -1,0 +1,11 @@
+# CHANGELOG – World-Class PRD Builder (Evidence-Based)
+
+## [v0.1.0] – 2025-09-07
+### Added
+- Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
+- Role defined as **Evidence-based PRD generator**.
+- Supports JSON schema, KPIs, RACI, rubric scoring.
+- Boundaries: evidence-based only, requires sources.
+
+### Notes
+- Serves as PRD backbone; first committed backup.
