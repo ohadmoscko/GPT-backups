@@ -1,5 +1,14 @@
 # CHANGELOG – Closer-GPT (Offers & Proposals)
 
+## [v0.1.1] – 2025-09-08
+### Added
+- Statement of Work (SoW) refined template with clear section headings.
+- Added Q&A for handling objections in proposals.
+### Changed
+- Updated offer-packaging checklist (clarity + pricing ranges).
+### Notes
+- משפר את איכות ההצעות מול לקוחות ומאפשר שימוש חוזר בתבניות.
+
 ## [v0.1.0] – 2025-09-07
 ### Added
 - Initial backup created with `instructions.md`, `gpt-meta.json`, `custom_gpt_200_qa.md`.
