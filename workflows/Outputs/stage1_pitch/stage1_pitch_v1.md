@@ -1,28 +1,32 @@
-# Stage 1 – Pitch: Output Flow
+# Stage 1 Output – Elevator Pitch (v1)
 
-## Input
-- Agent: **Idea-GPT**
-- Task: Draft Elevator Pitch (HE + EN)
+## Agent
+Idea-GPT
 
-## Output
-- File: `workflows/outputs/stage1_pitch/stage1_pitch_v1.md`
-- Content: 2 pitch versions (Hebrew + English)
+## Date
+2025-09-09
 
-## Flow to Next Stages
-1. **Stage 2 – Closer-GPT**  
-   - Uses the Pitch as the **core input** to draft 3 posts (LinkedIn / Facebook / Forum).
+## Task
+Draft two Elevator Pitch versions (Hebrew + English), max 5 sentences each.
 
-2. **Stage 3 – Risk Auditor GPT**  
-   - Reviews both the posts and the original Pitch.  
-   - Identifies risky claims, vague language, credibility issues.  
-   - Produces refined/approved versions.
+---
 
-3. **Stage 4 – Idea-GPT (again)**  
-   - Takes the approved Pitch and adapts it into text for the **one-page PDF (Asset Pack)**.  
-   - This creates a polished version, ready for public assets.
+## Pitch – Hebrew (v1)
+"צוות של 7 סוכני בינה מלאכותית שעובדים יחד – כל אחד מומחה בתחומו: רעיונות, תוכן, אסטרטגיה, תיעוד ועוד.  
+המערכת כבר עובדת בפועל: עם CHANGELOG, תיעוד מסודר וזרימת עבודה ברורה.  
+בקרוב נחשוף דמו ראשון שמראה איך הם פועלים יחד.  
+זה לא רעיון תאורטי – אלא צוות סוכנים חי ומנוהל."  
+
+---
+
+## Pitch – English (v1)
+"A team of 7 AI agents working together – each specializing in its own domain: ideas, content, strategy, documentation, and more.  
+The system is already live: with changelogs, structured documentation, and a clear workflow.  
+Soon, I’ll share the first demo showing how they collaborate.  
+This is not a theoretical concept – it’s a working, managed team of agents."  
+
+---
 
 ## Notes
-- Stage 1 Pitch is **not final** → it’s a seed draft.  
-- It becomes sharper and more reliable after Risk Review (Stage 3).  
-- By Stage 4, the Pitch is repurposed into both posts & marketing assets.
-
+- This is **v1 draft** – subject to review and refinement.
+- Next step: handoff to **Closer-GPT** for post drafts.
