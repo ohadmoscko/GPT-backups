@@ -1,4 +1,4 @@
-# Stage 3 – Message Review: Output Flow
+# Stage 3 – Message Review: Output Flow.
 
 ## Input
 - Agent: **Risk Auditor GPT**
