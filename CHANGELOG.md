@@ -1,4 +1,4 @@
-# Project Changelog
+# Project Changelog/
 ## v1.0.3
 - Completed Stages 1–6 (idea, posts, risk audit, PDF copy, docs, execution roadmap).
 - FirstWorkflow demo repo created:
