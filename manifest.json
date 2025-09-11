@@ -1,0 +1,337 @@
+[
+  {
+    "path": "CHANGELOG.md",
+    "size": 944,
+    "sha": "422ad8b2d3ebeec47757e39da466a2e391374082330248794f2b099c080ea984"
+  },
+  {
+    "path": "GPT-INDEX.md",
+    "size": 2161,
+    "sha": "2e59b43e9debddeedf29572893f5d6a8c79f034ef6c17b1d79bf0e24ba4c6669"
+  },
+  {
+    "path": "Meta Index (Private).md",
+    "size": 943,
+    "sha": "df25823d186e58e2cb616d6e13f4f751faa0eb611d44797b60eae661a6ca03f0"
+  },
+  {
+    "path": "README.md",
+    "size": 587,
+    "sha": "142d2abc89f36cba5ad6d02c91598fcff3c296a0d4a34efe2bd6bc6e763e3d97"
+  },
+  {
+    "path": "prompts/Catalyst-GPT (Focus & Accountability)/CHANGELOG – Catalyst-GPT (Focus & Accountability)",
+    "size": 1046,
+    "sha": "89b552d5b6866d45998920f80ea539af9e2199dd802e3082efc3bab7364a1f74"
+  },
+  {
+    "path": "prompts/Catalyst-GPT (Focus & Accountability)/custom_gpt_200_qa.md",
+    "size": 5666,
+    "sha": "9e3aca1d5601b9fd649657c1879ea11cc7f58d04dc65ddcd05fe62500229ca29"
+  },
+  {
+    "path": "prompts/Catalyst-GPT (Focus & Accountability)/gpt-meta.json",
+    "size": 1160,
+    "sha": "94be8e168ddb9e161bb55531b11f016c5327e693a47b7a22ff3e28c1b91f5f5f"
+  },
+  {
+    "path": "prompts/Catalyst-GPT (Focus & Accountability)/instructions.md",
+    "size": 2156,
+    "sha": "93d0317cf70ed6997f2e3fc88937357989cd4e7b411f272da3eb7653336bd400"
+  },
+  {
+    "path": "prompts/Closer-GPT (Offers & Proposals)/CHANGELOG – Closer-GPT (Offers & Proposals)",
+    "size": 758,
+    "sha": "bcee1792cd9f57acb8fb443d9e909c83f97c0bc99cf9a85cbe7569c7c52b585c"
+  },
+  {
+    "path": "prompts/Closer-GPT (Offers & Proposals)/custom_gpt_200_qa.md",
+    "size": 5666,
+    "sha": "9e3aca1d5601b9fd649657c1879ea11cc7f58d04dc65ddcd05fe62500229ca29"
+  },
+  {
+    "path": "prompts/Closer-GPT (Offers & Proposals)/gpt-meta.json",
+    "size": 1108,
+    "sha": "c05038c2aa3c4eedd7b4f4b3aae00f34611cf511e7373adc898bbc7e618519e6"
+  },
+  {
+    "path": "prompts/Closer-GPT (Offers & Proposals)/instructions.md",
+    "size": 2012,
+    "sha": "dde64a1103cd9440e6e7f9646bf47c341215289117091bb04728087aa5c66fee"
+  },
+  {
+    "path": "prompts/Context-to-Prompt Architect (C2PA)/CHANGELOG – Context-to-Prompt Architect (C2PA)",
+    "size": 1051,
+    "sha": "e7989b961c977c80d301dd93036e830c0590c1cba9eca112ac1d428e9cfc7cbe"
+  },
+  {
+    "path": "prompts/Context-to-Prompt Architect (C2PA)/gpt-meta.json",
+    "size": 1660,
+    "sha": "3c975eac83cba3d728cd8f0856295a753ead666408da02b88ee597e652dcff54"
+  },
+  {
+    "path": "prompts/Context-to-Prompt Architect (C2PA)/instructions.md",
+    "size": 6750,
+    "sha": "6c1f11bffa5c92dc525602c3b6d2270ba0c043887ef121529154571bc1730b5f"
+  },
+  {
+    "path": "prompts/Idea-GPT/CHANGELOG – Idea-GPT",
+    "size": 715,
+    "sha": "d1d03624831c5353d896f9aad6cd9d8a9232cc98c5d4b5b231934b59f3afc5f0"
+  },
+  {
+    "path": "prompts/Idea-GPT/custom_gpt_200_qa.md",
+    "size": 5666,
+    "sha": "9e3aca1d5601b9fd649657c1879ea11cc7f58d04dc65ddcd05fe62500229ca29"
+  },
+  {
+    "path": "prompts/Idea-GPT/gpt-meta.json",
+    "size": 1115,
+    "sha": "b8eacdb6ff3926f876ce1fe0f107929de0f64675236d9b96d271ba15431e7641"
+  },
+  {
+    "path": "prompts/Idea-GPT/instructions.md",
+    "size": 1545,
+    "sha": "bd08ce1a52191413300fe3de5f2a2bedff5f453c23d1e76f0f568c0707b5c33d"
+  },
+  {
+    "path": "prompts/Risk Auditor GPT/CHANGELOG – Risk Auditor GPT",
+    "size": 876,
+    "sha": "c0c396d7b157e05deda1a6444c7e1ffd0e899fc43f2e29bb4bd7c4305ce01830"
+  },
+  {
+    "path": "prompts/Risk Auditor GPT/custom_gpt_200_qa.md",
+    "size": 5666,
+    "sha": "9e3aca1d5601b9fd649657c1879ea11cc7f58d04dc65ddcd05fe62500229ca29"
+  },
+  {
+    "path": "prompts/Risk Auditor GPT/gpt-meta.json",
+    "size": 1149,
+    "sha": "7cca668a52a587c324d4febbe6bc70b257e1b945d6f17a1845b22ec09ff18431"
+  },
+  {
+    "path": "prompts/Risk Auditor GPT/instructions.md",
+    "size": 1635,
+    "sha": "bc3aa5b0890cb495b1a4c5f00e718a9863b95544f218af20a2210e0df51684b9"
+  },
+  {
+    "path": "prompts/Sheet-GPT/CHANGELOG – Sheet-GPT",
+    "size": 885,
+    "sha": "11a804f3982a0985b577dc144a0d5b3474c22edfb49e577c4d2de58325a098e1"
+  },
+  {
+    "path": "prompts/Sheet-GPT/custom_gpt_200_qa.md",
+    "size": 5666,
+    "sha": "9e3aca1d5601b9fd649657c1879ea11cc7f58d04dc65ddcd05fe62500229ca29"
+  },
+  {
+    "path": "prompts/Sheet-GPT/gpt-meta.json",
+    "size": 1181,
+    "sha": "b2411242a2ec4459521c22966707bd579c26d6380a465952f50b64586d8b85e3"
+  },
+  {
+    "path": "prompts/Sheet-GPT/instructions.md",
+    "size": 2101,
+    "sha": "094eed78d06f9fb9e3c193fefb1d6ac1fc6e3c23d26685eefd12ff537f97d7f8"
+  },
+  {
+    "path": "prompts/World-Class PRD Builder (Evidence-Based)/CHANGELOG – World-Class PRD Builder (Evidence-Based)",
+    "size": 838,
+    "sha": "da0039f0c055fc998f84b5673190fac7b107b42ef37d9c592a701570ade9e7ce"
+  },
+  {
+    "path": "prompts/World-Class PRD Builder (Evidence-Based)/gpt-meta.json",
+    "size": 1241,
+    "sha": "eb4a0368ace9c4fe2c087def1054d6a171399495f0dfa01d2790a12672c8cac0"
+  },
+  {
+    "path": "prompts/World-Class PRD Builder (Evidence-Based)/instructions.md",
+    "size": 3951,
+    "sha": "7dc3996c85fda02a4a0737a4c139de5e7d139160fb50a812db60234d71aeca67"
+  },
+  {
+    "path": "prompts/templates/CHANGELOG.sample.md",
+    "size": 481,
+    "sha": "bd72b67d8182c7abf2ac28c976166c0280e9fd4744279e55d829718ee19c6467"
+  },
+  {
+    "path": "prompts/templates/COMMIT-GUIDE.md",
+    "size": 514,
+    "sha": "bc0b2ceb23ec5f4ebeefaa76af07c39b25bb3692e50b36eb8e5181a77e909f86"
+  },
+  {
+    "path": "prompts/templates/TEMPLATE-CHECKLIST.md",
+    "size": 316,
+    "sha": "409db19340619335afa3d3d13e12ee46a54a80f44e8467f8e76ceb395e86e157"
+  },
+  {
+    "path": "prompts/templates/gpt-meta.sample.json",
+    "size": 435,
+    "sha": "db3558d540ac1b60acd979dd04fc1ca436926c7d83940a9d73e873ff14c616c9"
+  },
+  {
+    "path": "prompts/templates/instructions.sample.md",
+    "size": 545,
+    "sha": "5bbc1b635ef6767dbf60b033f80ba68bec3cd4ed130ae655a0595e29cb4f7de5"
+  },
+  {
+    "path": "prompts/templates/main-system-prompt.md",
+    "size": 1844,
+    "sha": "20b27dd2411d347a30124b976f1af94408ebe505cd5b38ebfe7a970fed0ab97d"
+  },
+  {
+    "path": "prompts/templates/qna.sample.md",
+    "size": 346,
+    "sha": "f93c0069a8322ef8dfdd5b4ba68a5d494666b90b7fa90f283bcab6683a937d4c"
+  },
+  {
+    "path": "workflows/Outputs/stage1_pitch/stage1_pitch_flow.md",
+    "size": 982,
+    "sha": "b3a5236c81c8c4aaf0744d77f56a570c7892c4fe34171ad10f2c39e1d45fd76f"
+  },
+  {
+    "path": "workflows/Outputs/stage1_pitch/stage1_pitch_v1.md",
+    "size": 1216,
+    "sha": "70fc266a39603fab524810de7f7b5ed752e271c3c0ad69b0e50ac138a9a934e8"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/post_linkedin_v1.md",
+    "size": 1246,
+    "sha": "a2bfa9bb7f18b3cb3998cd85c2f81e946b8eb6a5901264485eda2f2594ba3618"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/posts_linkedin_summary_tab/post_linkedin_v2.md",
+    "size": 2544,
+    "sha": "abec8ab9bfffc5fd1b403def95f3d197aef04c9a779f66b6575de1517b1efde0"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/posts_linkedin_summary_tab/posts_linkedin_summary_table_v1.md",
+    "size": 1363,
+    "sha": "82f1023faaec8dbd7f2508364e639e601255041201be9dc3aeb6ab6d7c93bed6"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/posts_linkedin_summary_tab/posts_linkedin_summary_table_v2.md",
+    "size": 2047,
+    "sha": "cc53c5b147fc0d9ee4584deeb17cf50d20870fd098b26d27be131bfdc7a3944b"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/posts_placeholder.md",
+    "size": 264,
+    "sha": "f5830a7ed66c1918f6f36497be6b8feb95052dfd3282c0919ee55792de9a5cf4"
+  },
+  {
+    "path": "workflows/Outputs/stage2_posts/stage2_posts_flow.md",
+    "size": 704,
+    "sha": "16e263177667be6a9cbfcc272b1eae03bd39aed58194804e14b7c86bc901e5f2"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/post_linkedin_approved_v1.md",
+    "size": 1351,
+    "sha": "e8f7b85cc4bddd393751ad151c02add11b11cc10cd9529f0d60b4dc7539da50f"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/post_linkedin_approved_v2.md",
+    "size": 2199,
+    "sha": "77a5eb62a8da713d29b34f6eda1a4b44da99e94657f73ccd508deb19bd427589"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/risk_audit_brief_v1.md",
+    "size": 2021,
+    "sha": "9ffbf850f41995dfb487f9597cd46ebb77a6f1079c04b38e76599ee47488d576"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/risk_audit_report_v1.md",
+    "size": 2050,
+    "sha": "c898b255ab8b698a2de0c0cf45ed946a4d2160a2965cb50acf2fe21a4aa9b104"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/stage3_risk_flow.md",
+    "size": 1024,
+    "sha": "66028c7e0a5385e70b2ab5b4bd763ea14f0561b44149bb20cb14f5dc4ba6e7f9"
+  },
+  {
+    "path": "workflows/Outputs/stage3_risk/stage3_risk_notes_v1.md",
+    "size": 1295,
+    "sha": "c142e4a777b257b87ebbd1f3f0305edb992fb68576a289d13457b7a3c066a410"
+  },
+  {
+    "path": "workflows/Outputs/stage4_assets/assets_summary_v1.md",
+    "size": 1,
+    "sha": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  {
+    "path": "workflows/Outputs/stage4_assets/pdf_copy_v1.md",
+    "size": 3491,
+    "sha": "41180055d3f7fea25f41511ca31d0f7716cd2d93db6a568ea8541a3860942b94"
+  },
+  {
+    "path": "workflows/Outputs/stage4_assets/site_tasks_v1.md",
+    "size": 944,
+    "sha": "a7c3deb24715962ab2e1d340ce229b9aa7f63f865143582084f9ddda9c10b93a"
+  },
+  {
+    "path": "workflows/Outputs/stage4_assets/stage4_assets_flow.md",
+    "size": 903,
+    "sha": "40777cc31858c4e869566de8bf9d873f24400441f294db2010f7be87bfc39c07"
+  },
+  {
+    "path": "workflows/Outputs/stage5_docs/repo_tree_v1.md",
+    "size": 390,
+    "sha": "5e2a2513618ac69bce3dcd1f2a99caa703a9b1679317d54922a38912713e1ea9"
+  },
+  {
+    "path": "workflows/Outputs/stage5_docs/stage5_docs_flow.md",
+    "size": 1058,
+    "sha": "6d7848f62d8b07d5a93dcd39c3395c7fa7ad6c3119a4f8cd5a1172de8548654e"
+  },
+  {
+    "path": "workflows/Outputs/stage5_docs/stage5_repo_update_notes.md",
+    "size": 559,
+    "sha": "8b1edc55c6cb5b5d7e64d74a9600ede266b2f88184a5d6c518b7dafd92dcba8d"
+  },
+  {
+    "path": "workflows/Outputs/stage6_roadmap/stage6_roadmap_flow.md",
+    "size": 697,
+    "sha": "4ca6be2ff8b2fba81195a83f9412cd0f9f83b395ff2e0f43484a3959cb894b5e"
+  },
+  {
+    "path": "workflows/Outputs/stage6_roadmap/stage6_week_plan_v1.md",
+    "size": 3234,
+    "sha": "d078649e482575b573ef9e16adf1ccfad6493cfe1b0358403c5f9983f635475c"
+  },
+  {
+    "path": "workflows/Outputs/stage7_demo/README.md",
+    "size": 1407,
+    "sha": "a21dd98803935e7a203e99d0dc5a1f5e6947b31260321f3f3870d634bcd41e8b"
+  },
+  {
+    "path": "workflows/Outputs/stage7_demo/demo_flowchart.md",
+    "size": 1251,
+    "sha": "1d8162babf3353a78486ca32f7f4349baf1033d4f80f786734faff90be6ddb50"
+  },
+  {
+    "path": "workflows/Outputs/stage7_demo/demo_prototype_v1.md",
+    "size": 1239,
+    "sha": "4caa5bdea27d8b659111f1b68b5627b20f95add6da6417fb4d6c1ce08a65e5b2"
+  },
+  {
+    "path": "workflows/Outputs/stage7_demo/demo_usecases_v1.md",
+    "size": 870,
+    "sha": "89989b5a6c1a0d24af1f2ddce6a09347f1f041a986abe4e28471e942cd955dc0"
+  },
+  {
+    "path": "workflows/Outputs/stage7_demo/stage7_demo_flow.md",
+    "size": 716,
+    "sha": "476387eb3ff94cdae88ca110fc00eb044af3295cbddf076dd0b4f38d27393d69"
+  },
+  {
+    "path": "workflows/Outputs/timeline.md",
+    "size": 925,
+    "sha": "a06c8291bec8b453ac42040ebaea7ef33031e4a3b57e7b1930a86b3533d271c7"
+  },
+  {
+    "path": "workflows/WORKFLOW.md",
+    "size": 2548,
+    "sha": "003d9c6c1afe52e0f02842ea75359b79929d2690d16b563e0d29761dd9ae04f3"
+  }
+]
