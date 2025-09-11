@@ -1,4 +1,4 @@
-# GPT-backups – Documentation & Archives
+# GPT-backups – Documentation & Archives/
 
 This repository contains the **full documentation, prompts, and workflow history** of the AI Agent project.
 
