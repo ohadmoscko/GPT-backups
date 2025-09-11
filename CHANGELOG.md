@@ -1,5 +1,6 @@
 # Project Changelog/
 ## v1.0.3
+- Cross-linked the public demo repo (FirstWorkflow) from README for clarity.
 - Completed Stages 1–6 (idea, posts, risk audit, PDF copy, docs, execution roadmap).
 - FirstWorkflow demo repo created:
   - Contains the live `index.html` visualization.
