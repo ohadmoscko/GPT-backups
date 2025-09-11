@@ -2,7 +2,8 @@
 
 This repository contains the **full documentation, prompts, and workflow history** of the AI Agent project.
 
-👉 Live Demo is available in the companion repo: [FirstWorkflow](https://github.com/ohadmoscko/FirstWorkflow)
+> Live Demo: https://github.com/ohadmoscko/FirstWorkflow
+
 
 ## Current Status
 - Version: v1.0.3  
