@@ -1,3 +1,3 @@
-# GPT-backups
-Operational backups (Make blueprints, scripts).  
-- `make/Integration Webhooks.blueprint.json`: Make.com scenario with secret filter, Sheets mapping, CORS response.
+Backups for Make blueprints.
+- `Integration Webhooks.blueprint.json` (latest)
+- Dated copies like `Integration Webhooks.YYYY-MM-DD.json` (optional)
