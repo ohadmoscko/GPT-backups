@@ -4,6 +4,8 @@
 - Router: secret check on body `key`
 - Sheets mapping: timestamp→A, name→B, scope→C, ...
 - Response: fixed CORS header name (Access-Control-Allow-Origin)
+- 2025-09-12: Added Integration Webhooks blueprint (secret filter, Sheets mapping, CORS).
+
 
 ## v1.0.3
 - Cross-linked the public demo repo (FirstWorkflow) from README for clarity.
