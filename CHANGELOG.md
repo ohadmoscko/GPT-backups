@@ -1,4 +1,10 @@
 # Project Changelog/
+# CHANGELOG
+## 2025-09-12
+- Router: secret check on body `key`
+- Sheets mapping: timestamp→A, name→B, scope→C, ...
+- Response: fixed CORS header name (Access-Control-Allow-Origin)
+
 ## v1.0.3
 - Cross-linked the public demo repo (FirstWorkflow) from README for clarity.
 - Completed Stages 1–6 (idea, posts, risk audit, PDF copy, docs, execution roadmap).
