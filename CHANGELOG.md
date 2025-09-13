@@ -1,5 +1,8 @@
 # Project Changelog/
 # CHANGELOG
+
+- 2025-09-13: Added Cloudflare Worker proxy (secret server-side).
+
 ## 2025-09-12
 - Router: secret check on body `key`
 - Sheets mapping: timestamp→A, name→B, scope→C, ...
